@@ -1,9 +1,6 @@
 # pay-select-component
-Fair point! If you want it to sound like a real person wrote it—someone who actually built the code—keep it short, punchy, and direct.
 
-Here is a "human" version you can use:
 
-Billing Selector UI
 I built this because I wanted a clean, modern way to handle payment method selection. It looks like a professional billing dashboard but keeps things simple with just HTML, CSS, and JS.
 
 What it does:
