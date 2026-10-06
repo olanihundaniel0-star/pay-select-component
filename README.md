@@ -22,4 +22,3 @@ CSS (Flexbox & Variables)
 
 Vanilla JavaScript (No bulky libraries)
 
-Would you like me to help you with the actual command to push this to GitHub from your terminal?
